@@ -1,3 +1,3 @@
-body{
-    background: #BDBDBD;
-}
+@import url(../css/tagline.css);
+@import url(../css/first_heading.css);
+

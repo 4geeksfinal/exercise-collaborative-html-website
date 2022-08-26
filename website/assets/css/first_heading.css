@@ -1,0 +1,29 @@
+.head {
+    color: gray;
+    margin-left: 8px;
+}
+
+.inter {
+    height: 80px;
+    border-bottom: 1px rgba(128, 128, 128, 0.271) solid;
+}
+
+.head2 {
+    margin-top: 100px;
+
+}
+
+.round {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    background: url('../img/1.jpg');
+    background-size: cover;
+    background-position: center center;
+}
+
+.box {
+    border-bottom: 1px rgba(128, 128, 128, 0.271) solid;
+}
